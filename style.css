@@ -1,0 +1,17 @@
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+.announcement {
+    background-color: cyan;
+}
+
+body {
+    text-align: center;
+}
+#map {
+    margin-left: 10px;
+    margin-right: 10px;
+}
