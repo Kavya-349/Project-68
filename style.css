@@ -1,7 +1,7 @@
-.my_nav_bar {
+.navbar-inverse {
     position: sticky;
     top: 0;
-    z-index: 99999;
+    z-index: 9999999;
 }
 
 .announcement {
@@ -11,7 +11,55 @@
 body {
     text-align: center;
 }
+
 #map {
     margin-left: 10px;
     margin-right: 10px;
 }
+.movie_head {
+    padding: 6px 22px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+    width: 100%;
+}
+.movie_head i {
+    float: right;
+}
+.movie_head:hover {
+    cursor: pointer;
+}
+#play {
+    width: 32%;
+    height: 400px;
+}
+#Achivements {
+    text-align: center;
+}
+#lib {
+    width: 32%;
+    height: 400px;
+}
+ul {
+    font-size: 20px;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
