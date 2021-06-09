@@ -16,6 +16,7 @@ body {
     margin-left: 10px;
     margin-right: 10px;
 }
+
 .movie_head {
     padding: 6px 22px;
     font-size: 20px;
@@ -24,42 +25,50 @@ body {
     display: inline-block;
     width: 100%;
 }
+
 .movie_head i {
     float: right;
 }
+
 .movie_head:hover {
     cursor: pointer;
 }
+
 #play {
     width: 32%;
     height: 400px;
 }
+
 #Achivements {
     text-align: center;
 }
+
 #lib {
     width: 32%;
     height: 400px;
 }
+
 ul {
     font-size: 20px;
 }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
 
+.school_li {
+    width: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.school_li img {
+    border-radius: 35px;
+    height: 300px;
+    width: 500px;
+}
+
+.school_li h4 {
+    font-size: 27px;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
